@@ -1,4 +1,4 @@
-# COMP790: Information Theory
+# COMP790-101: Information Theory
 
 *Incomplete draft syllabus, subject to change*
 
@@ -6,7 +6,7 @@ Instructor: [Colin Raffel](http://colinraffel.com)
 
 Term: Fall 2021
 
-Meeting time: Mondays and Wednesdays, 1:25-2:40pm
+Meeting time: Mondays and Wednesdays, 1:25-2:40pm in SN 014
 
 Office hours: By appointment
 
@@ -14,6 +14,7 @@ Information theory is the scientific study of the transmission of information ov
 It is a field that has its roots in probability and statistics and underpins many important technologies, such as cryptology, linguistics, and telecommunication.
 We will mainly focus on applications in machine learning, thanks to the fact that information theory provides a unified framework for understanding many fundamental concepts in machine learning.
 The course will closely follow portions of [Information Theory, Inference, and Learning Algorithms by David Mackay](https://www.inference.org.uk/itprnn/book.pdf).
+(Note: The course catalog entry for this course has the description "Permission of the instructor. This course has variable content and may be taken multiple times for credit." which is not terribly descriptive. Please refer to this page for the most up-to-date information.)
 
 ## Prerequisites
 
@@ -74,6 +75,15 @@ All accommodations are coordinated through the Accessibility Resources and Servi
 Relevant policy documents as they relate to registration and accommodations determinations and the student registration form are available on the ARS website under the About ARS tab.
 
 CAPS is strongly committed to addressing the mental health needs of a diverse student body through timely access to consultation and connection to clinically appropriate services, whether for short or long-term needs. Go to their [website](https://caps.unc.edu/) or visit their facilities on the third floor of the Campus Health Services building for a walk-in evaluation to learn more.
+
+## Mask use
+
+This semester, while we are in the midst of a global pandemic, all enrolled students are required to wear a mask covering your mouth and nose at all times in our classroom.
+This requirement is to protect our educational community — your classmates and me – as we learn together.
+If you choose not to wear a mask, or wear it improperly, I will ask you to leave immediately, and I will submit a report to the [Office of Student Conduct](https://cm.maxient.com/reportingform.php?UNCChapelHill&layout_id=23).
+At that point you will be disenrolled from this course for the protection of our educational community.
+Students who have an authorized accommodation from Accessibility Resources and Service have an exception.
+For additional information, see [Carolina Together](https://carolinatogether.unc.edu/).
 
 ## Changes
 
