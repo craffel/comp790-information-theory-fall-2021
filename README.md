@@ -31,7 +31,7 @@ There will be no final project, exams, or other assignments.
 Hopefully, this will not only give you a deeper understanding of the material, but also give you some teaching skills along the way.
 However, *you should only take this class if you are game for a rather intensive and unusual course format*.
 
-Each class session, we will be reading a (sub)section from the textbook.
+Each class session, we will be covering a (sub)section from the textbook.
 A rotating subset of students will then prepare various presentations or other material based on the reading.
 The roles and schedule are subject to change depending on the number of enrolled students, but to give you a sense for the format, likely roles will include:
 * **Lecturer**: Prepare a ~30 minute lecture on the assigned reading for the class session.
@@ -49,35 +49,35 @@ The roles and schedule are subject to change depending on the number of enrolled
 | Wed, 8/18 | Course introduction, logistics, background (lecture by Colin) |
 | Mon, 8/23 | Binary symmetric channel and repetiction codes, pp. 1-8 (lecture by Colin) |
 | Wed, 8/25 | Hamming codes, pp. 8-16 |
-| Mon, 8/30 |  |
-| Wed, 9/1 |  |
+| Mon, 8/30 | Probabilities and ensembles, pp. 22-26 |
+| Wed, 9/1 | Forward and inverse probabilities, pp. 27-32 |
 | Mon, 9/6 | Labor day (no class) |
-| Wed, 9/8 |  |
-| Mon, 9/13 |  |
-| Wed, 9/15 |  |
-| Mon, 9/20 |  |
-| Wed, 9/22 |  |
-| Mon, 9/27 |  |
-| Wed, 9/29 |  |
-| Mon, 10/4 |  |
-| Wed, 10/6 |  |
-| Mon, 10/11 |  |
-| Wed, 10/13 |  |
-| Mon, 10/18 |  |
-| Wed, 10/20 |  |
-| Mon, 10/25 |  |
-| Wed, 10/27 |  |
-| Mon, 11/1 |  |
-| Wed, 11/3 |  |
-| Mon, 11/8 |  |
-| Wed, 11/10 |  |
-| Mon, 11/15 |  |
-| Wed, 11/17 |  |
-| Mon, 11/22 |  |
+| Wed, 9/8 | Entropy, pp. 32-36 |
+| Mon, 9/13 | Information content, pp. 68-73 |
+| Wed, 9/15 | Data compression, pp. 73-78 |
+| Mon, 9/20 | Shannon's source coding theorem, pp. 78-84 |
+| Wed, 9/22 | Symbol codes, pp. 91-95 |
+| Mon, 9/27 | The Huffman code, pp. 95-101 |
+| Wed, 9/29 | Arithmetic coding, pp. 110-117 |
+| Mon, 10/4 | Lempel-Ziv coding, pp. 118-123 |
+| Wed, 10/6 | More on entropy, mutual information, and the noisy channel, pp. 138-140 and 146-147|
+| Mon, 10/11 | Noisy channels, pp. 147-151 |
+| Wed, 10/13 | The noisy-channel coding theorem sketch, pp. 151-155 |
+| Mon, 10/18 | The noisy-channel coding theorem proof part 1, pp. 162-167 |
+| Wed, 10/20 | The noisy-channel coding theorem proof part 2, pp. 167-172 |
+| Mon, 10/25 | The Gaussian channel, pp. 177-182 |
+| Wed, 10/27 | Error-correcting codes, pp. 183-187 |
+| Mon, 11/1 | Hash codes, pp. 193-201 |
+| Wed, 11/3 | Binary codes part 1, pp. 206-213 |
+| Mon, 11/8 | Binary codes part 2, pp. 213-220 |
+| Wed, 11/10 | Very good linear codes exist, pp. 229-231 |
+| Mon, 11/15 | Message passing, pp. 241-246 |
+| Wed, 11/17 | Communicating over constrained noiseless channels, pp. 248-257 |
+| Mon, 11/22 | Crosswords and simple language models, pp. 260-264 |
 | Wed, 11/24 | Thanksgiving break (no class) |
-| Mon, 11/29 |  |
-| Wed, 12/1 |  |
-| Sat, 12/4 |  (final exam slot) |
+| Mon, 11/29 | Model Comparison and Occam’s Razor (tentative) |
+| Wed, 12/1 | Capacity of a Single Neuron (tentative) |
+| Sat, 12/4 | Final exam slot |
 
 ## Grading, attendance, and late work policy
 
