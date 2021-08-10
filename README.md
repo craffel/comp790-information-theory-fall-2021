@@ -40,6 +40,44 @@ The roles and schedule are subject to change depending on the number of enrolled
 * **Note taker**: Prepare a clean set of notes on the assigned material.
 * **Researcher**: Find a research paper that uses one of the techniques discussed in the reading and prepare a short presentation about how it was used.
 * **Hacker**: Implement one of the ideas from the reading in Python code and prepare a short presentation about it.
+* **Diagrammer**: Create a diagram of one of the concepts from the reading.
+
+## Schedule
+
+| Date | Content |
+|----|----|
+| Wed, 8/18 | Course introduction, logistics, background (lecture by Colin) |
+| Mon, 8/23 | Binary symmetric channel and repetiction codes, pp. 1-8 (lecture by Colin) |
+| Wed, 8/25 | Hamming codes, pp. 8-16 |
+| Mon, 8/30 |  |
+| Wed, 9/1 |  |
+| Mon, 9/6 | Labor day (no class) |
+| Wed, 9/8 |  |
+| Mon, 9/13 |  |
+| Wed, 9/15 |  |
+| Mon, 9/20 |  |
+| Wed, 9/22 |  |
+| Mon, 9/27 |  |
+| Wed, 9/29 |  |
+| Mon, 10/4 |  |
+| Wed, 10/6 |  |
+| Mon, 10/11 |  |
+| Wed, 10/13 |  |
+| Mon, 10/18 |  |
+| Wed, 10/20 |  |
+| Mon, 10/25 |  |
+| Wed, 10/27 |  |
+| Mon, 11/1 |  |
+| Wed, 11/3 |  |
+| Mon, 11/8 |  |
+| Wed, 11/10 |  |
+| Mon, 11/15 |  |
+| Wed, 11/17 |  |
+| Mon, 11/22 |  |
+| Wed, 11/24 | Thanksgiving break (no class) |
+| Mon, 11/29 |  |
+| Wed, 12/1 |  |
+| Sat, 12/4 |  (final exam slot) |
 
 ## Grading, attendance, and late work policy
 
