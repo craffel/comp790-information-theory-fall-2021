@@ -81,12 +81,15 @@ The roles and schedule are subject to change depending on the number of enrolled
 
 ## Grading, attendance, and late work policy
 
-You will be graded primarily on the artifacts (presentations, material, etc.) you create while taking on one of the aforementioned roles.
-If any of the roles result in creating assignments for non-presenting students (e.g. the Examiner), you will need to complete those assignments.
-These mini-assignments and non-presenting class participation will make up a small portion of the grade.
+There are 28 class sessions (including the final exam slot) where students will be presenting.
+Students will be divided into four groups and students within a given group will rotate through the roles.
+Each student will therefore present (or otherwise complete the requirement of one of the roles) 7 times.
+Students will be assigned a grade out of 10 points for each presentation for a total of 70 points from presentations.
+For each class session, students will also be given 1 point for attending the class, participating, and completeing assignments for non-presenting students (e.g. the Examiner).
+The remaining 2 points are free!
 
 Note that if you fall behind on the material, it will be increasingly hard for you to take on one of the roles that you will rotate through.
-It's therefore crucial that you plan to attend all classes and stay on top of the readings.
+It's therefore crucial that you plan to attend all classes and stay on top of the readings (and, more than likely, read ahead in order to prepare the assignment for one of the roles).
 If, for any reason, you need to miss a class where you'd be presenting, or fall behind on readings for any other reason, you'll need to let me know as early as possible so that we can plan accordingly.
 
 All students are expected to follow the guidelines of the [UNC honor code](http://honor.unc.edu).
