@@ -1,7 +1,5 @@
 # COMP790-101: Information Theory
 
-*Incomplete draft syllabus, subject to change*
-
 Instructor: [Colin Raffel](http://colinraffel.com)
 
 Term: Fall 2021
