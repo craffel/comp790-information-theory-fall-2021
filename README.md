@@ -45,7 +45,7 @@ The roles and schedule are subject to change depending on the number of enrolled
 | Date | Content |
 |----|----|
 | Wed, 8/18 | Course introduction, logistics, background (lecture by Colin) |
-| Mon, 8/23 | Binary symmetric channel and repetiction codes, pp. 1-8 (lecture by Colin) |
+| Mon, 8/23 | Binary symmetric channel and repetition codes, pp. 1-8 (lecture by Colin) |
 | Wed, 8/25 | Hamming codes, pp. 8-16 |
 | Mon, 8/30 | Probabilities and ensembles, pp. 22-26 |
 | Wed, 9/1 | Forward and inverse probabilities, pp. 27-32 |
