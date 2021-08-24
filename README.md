@@ -46,36 +46,37 @@ The roles and schedule are subject to change depending on the number of enrolled
 |----|----|
 | Wed, 8/18 | Course introduction, logistics, background (lecture by Colin) |
 | Mon, 8/23 | Binary symmetric channel and repetition codes, pp. 1-8 (lecture by Colin) |
-| Wed, 8/25 | Hamming codes, pp. 8-16 |
-| Mon, 8/30 | Probabilities and ensembles, pp. 22-26 |
-| Wed, 9/1 | Forward and inverse probabilities, pp. 27-32 |
+| Wed, 8/25 | Binary symmetric channel and repetition codes, part 2 (lecture by Colin) |
+| Mon, 8/30 | Hamming codes, pp. 8-16 |
+| Wed, 9/1 | Probabilities and ensembles, pp. 22-26 |
 | Mon, 9/6 | Labor day (no class) |
-| Wed, 9/8 | Entropy, pp. 32-36 |
-| Mon, 9/13 | Information content, pp. 68-73 |
-| Wed, 9/15 | Data compression, pp. 73-78 |
-| Mon, 9/20 | Shannon's source coding theorem, pp. 78-84 |
-| Wed, 9/22 | Symbol codes, pp. 91-95 |
-| Mon, 9/27 | The Huffman code, pp. 95-101 |
-| Wed, 9/29 | Arithmetic coding, pp. 110-117 |
-| Mon, 10/4 | Lempel-Ziv coding, pp. 118-123 |
-| Wed, 10/6 | More on entropy, mutual information, and the noisy channel, pp. 138-140 and 146-147|
-| Mon, 10/11 | Noisy channels, pp. 147-151 |
-| Wed, 10/13 | The noisy-channel coding theorem sketch, pp. 151-155 |
-| Mon, 10/18 | The noisy-channel coding theorem proof part 1, pp. 162-167 |
-| Wed, 10/20 | The noisy-channel coding theorem proof part 2, pp. 167-172 |
-| Mon, 10/25 | The Gaussian channel, pp. 177-182 |
-| Wed, 10/27 | Error-correcting codes, pp. 183-187 |
-| Mon, 11/1 | Hash codes, pp. 193-201 |
-| Wed, 11/3 | Binary codes part 1, pp. 206-213 |
-| Mon, 11/8 | Binary codes part 2, pp. 213-220 |
-| Wed, 11/10 | Very good linear codes exist, pp. 229-231 |
-| Mon, 11/15 | Message passing, pp. 241-246 |
-| Wed, 11/17 | Communicating over constrained noiseless channels, pp. 248-257 |
-| Mon, 11/22 | Crosswords and simple language models, pp. 260-264 |
+| Wed, 9/8 | Forward and inverse probabilities, pp. 27-32 |
+| Mon, 9/13 | Entropy, pp. 32-36 |
+| Wed, 9/15 | Information content, pp. 68-73 |
+| Mon, 9/20 | Data compression, pp. 73-78 |
+| Wed, 9/22 | Shannon's source coding theorem, pp. 78-84 |
+| Mon, 9/27 | Symbol codes, pp. 91-95 |
+| Wed, 9/29 | The Huffman code, pp. 95-101 |
+| Mon, 10/4 | Arithmetic coding, pp. 110-117 |
+| Wed, 10/6 | Lempel-Ziv coding, pp. 118-123 |
+| Mon, 10/11 | More on entropy, mutual information, and the noisy channel, pp. 138-140 and 146-147 |
+| Wed, 10/13 | Noisy channels, pp. 147-151 |
+| Mon, 10/18 | The noisy-channel coding theorem sketch, pp. 151-155 |
+| Wed, 10/20 | The noisy-channel coding theorem proof part 1, pp. 162-167 |
+| Mon, 10/25 | The noisy-channel coding theorem proof part 2, pp. 167-172 |
+| Wed, 10/27 | The Gaussian channel, pp. 177-182 |
+| Mon, 11/1 | Error-correcting codes, pp. 183-187 |
+| Wed, 11/3 | Hash codes, pp. 193-201 |
+| Mon, 11/8 | Binary codes part 1, pp. 206-213 |
+| Wed, 11/10 | Binary codes part 2, pp. 213-220 |
+| Mon, 11/15 | Very good linear codes exist, pp. 229-231 |
+| Wed, 11/17 | Message passing, pp. 241-246 |
+| Mon, 11/22 | Communicating over constrained noiseless channels, pp. 248-257 |
 | Wed, 11/24 | Thanksgiving break (no class) |
-| Mon, 11/29 | Model Comparison and Occam’s Razor (tentative) |
-| Wed, 12/1 | Capacity of a Single Neuron (tentative) |
-| Sat, 12/4 | Final exam slot |
+| Mon, 11/29 | Crosswords and simple language models, pp. 260-264 |
+| Wed, 12/1 | Model Comparison and Occam’s Razor (tentative) |
+| Sat, 12/4 | (Final exam slot, part 1) Capacity of a Single Neuron (tentative) |
+| Sat, 12/4 | (Final exam slot, part 1) TBD |
 
 ## Grading, attendance, and late work policy
 
